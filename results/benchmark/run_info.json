@@ -1,0 +1,63 @@
+{
+  "config": {
+    "img_size": 224,
+    "batch_size": 32,
+    "warmup_epochs": 5,
+    "warmup_lr": 0.001,
+    "finetune_epochs": 30,
+    "finetune_lr": 1e-05,
+    "unfreeze_fraction": 0.3,
+    "dropout": 0.3,
+    "early_stop_patience": 5,
+    "reduce_lr_patience": 2,
+    "reduce_lr_factor": 0.2,
+    "min_lr": 1e-07,
+    "augmentation": {
+      "horizontal_flip": true,
+      "rotation_deg": 40,
+      "translation": 0.1,
+      "zoom": 0.1,
+      "contrast": 0.2
+    }
+  },
+  "models": [
+    "ResNet50",
+    "VGG16",
+    "DenseNet121",
+    "MobileNetV2",
+    "Xception",
+    "InceptionResNetV2"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "weights": "imagenet",
+  "split_file": "splits/split_seed42.csv",
+  "subset_sizes": {
+    "train": {
+      "normal": 424,
+      "osteoarthritis": 627
+    },
+    "val": {
+      "normal": 91,
+      "osteoarthritis": 134
+    },
+    "test": {
+      "normal": 90,
+      "osteoarthritis": 134
+    }
+  },
+  "python": "3.12.3",
+  "tensorflow": "2.21.0",
+  "sklearn": "1.9.1",
+  "pandas": "3.1.1",
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "devices": [
+    "/physical_device:CPU:0",
+    "/physical_device:GPU:0"
+  ],
+  "date": "2026-11-05"
+}
