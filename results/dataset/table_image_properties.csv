@@ -1,0 +1,4 @@
+label,images,width_min,width_median,width_max,height_min,height_median,height_max,megapixels_median,colour_modes,bit_depths,file_size_median_kb,total_size_mb
+normal,605,224,300,1230,147,162,1805,0.05,RGB: 427; L: 93; RGBA: 58; I;16: 27,24-bit: 427; 8-bit: 93; 32-bit: 58; 16-bit: 27,28,20.6
+osteoarthritis,895,206,300,2493,161,224,2499,0.05,RGB: 796; L: 90; I;16: 5; RGBA: 4,24-bit: 796; 8-bit: 90; 16-bit: 5; 32-bit: 4,41,151.5
+all,1500,206,300,2493,147,162,2499,0.05,RGB: 1223; L: 183; RGBA: 62; I;16: 32,24-bit: 1223; 8-bit: 183; 32-bit: 62; 16-bit: 32,30,172.1

@@ -1,0 +1,6 @@
+stage,normal,osteoarthritis,total
+Original collection,1360,1370,2730
+Removed: exact (byte-identical) copy,-251,-149,-400
+Removed: near-identical copy,-502,-325,-827
+Removed: label conflict (same image in both classes),-2,-1,-3
+Released,605,895,1500

@@ -1,0 +1,8 @@
+folder,label,label_id,format,files,share_of_class
+images/normal/,normal,0,JPEG,51,8.4%
+images/normal/,normal,0,PNG,554,91.6%
+images/normal/,normal,0,all,605,40.3% of dataset
+images/osteoarthritis/,osteoarthritis,1,JPEG,437,48.8%
+images/osteoarthritis/,osteoarthritis,1,PNG,458,51.2%
+images/osteoarthritis/,osteoarthritis,1,all,895,59.7% of dataset
+,total,,all,1500,100%

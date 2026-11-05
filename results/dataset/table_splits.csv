@@ -1,0 +1,4 @@
+label,train,val,test,total
+normal,424,91,90,605
+osteoarthritis,627,134,134,895
+total,1051,225,224,1500
