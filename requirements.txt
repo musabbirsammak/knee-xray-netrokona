@@ -1,0 +1,8 @@
+# Dataset curation and reports
+pillow>=10.0
+matplotlib>=3.8
+pandas>=2.0
+
+# Baseline benchmark (versions used for the reported results)
+tensorflow==2.21.0
+scikit-learn==1.9.1

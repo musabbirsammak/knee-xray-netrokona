@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the dataset, please cite the article and the dataset."
+title: "Knee radiograph dataset for osteoarthritis detection (Netrokona, Bangladesh): curation and benchmark code"
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+repository-code: "https://github.com/USERNAME/knee-xray-netrokona"
+authors:
+  - family-names: "Al Tahrim"
+    given-names: "Tajrian"
+    affiliation: "Department of Software Engineering, Daffodil International University"
+  - family-names: "Toma"
+    given-names: "Tapushe Rabaya"
+    affiliation: "Department of Software Engineering, Daffodil International University"
+references:
+  - type: dataset
+    title: "Knee radiograph dataset for osteoarthritis detection from a diagnostic centre in Netrokona, Bangladesh"
+    authors:
+      - family-names: "Al Tahrim"
+        given-names: "Tajrian"
+      - family-names: "Toma"
+        given-names: "Tapushe Rabaya"
+    publisher:
+      name: "Mendeley Data"
+    doi: "10.17632/xxxxxxxxxx.1"
+    year: 2026
