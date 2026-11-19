@@ -4,7 +4,7 @@ title: "Knee radiograph dataset for osteoarthritis detection (Netrokona, Banglad
 version: 1.0.1
 date-released: 2026-11-16
 license: MIT
-repository-code: "https://github.com/ilameya/knee-xray-netrokona"
+repository-code: "https://github.com/musabbirsammak/knee-xray-netrokona"
 authors:
   - family-names: "Al Tahrim"
     given-names: "Tajrian"
