@@ -1,25 +1,49 @@
 cff-version: 1.2.0
 message: "If you use this code or the dataset, please cite the article and the dataset."
 title: "Knee radiograph dataset for osteoarthritis detection (Netrokona, Bangladesh): curation and benchmark code"
-version: 1.0.0
-date-released: 2026-11-05
+version: 1.0.1
+date-released: 2026-11-16
 license: MIT
-repository-code: "https://github.com/USERNAME/knee-xray-netrokona"
+repository-code: "https://github.com/ilameya/knee-xray-netrokona"
 authors:
   - family-names: "Al Tahrim"
     given-names: "Tajrian"
-    affiliation: "Department of Software Engineering, Daffodil International University"
+    email: "tahrim35-1137@s.diu.edu.bd"
+    affiliation: "Daffodil International University, Dhaka, Bangladesh"
   - family-names: "Toma"
     given-names: "Tapushe Rabaya"
-    affiliation: "Department of Software Engineering, Daffodil International University"
+    email: "toma.swe@diu.edu.bd"
+    affiliation: "Daffodil International University, Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0009-0006-2876-5672"
+  - family-names: "Sammak"
+    given-names: "Musabbir Hasan"
+    email: "musabbir.swe@diu.edu.bd"
+    affiliation: "Daffodil International University, Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0000-0001-9060-0787"
+  - family-names: "Biplob"
+    given-names: "Khalid Been Badruzzaman"
+    email: "khalid@daffodilvarsity.edu.bd"
+    affiliation: "Daffodil International University, Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0000-0003-1927-6712"
+  - family-names: "Mahmud"
+    given-names: "Imran"
+    email: "imranmahmud@daffodilvarsity.edu.bd"
+    affiliation: "Daffodil International University, Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0000-0003-2962-8515"
 references:
-  - type: dataset
+  - type: data
     title: "Knee radiograph dataset for osteoarthritis detection from a diagnostic centre in Netrokona, Bangladesh"
     authors:
       - family-names: "Al Tahrim"
         given-names: "Tajrian"
       - family-names: "Toma"
         given-names: "Tapushe Rabaya"
+      - family-names: "Sammak"
+        given-names: "Musabbir Hasan"
+      - family-names: "Biplob"
+        given-names: "Khalid Been Badruzzaman"
+      - family-names: "Mahmud"
+        given-names: "Imran"
     publisher:
       name: "Mendeley Data"
     doi: "10.17632/xxxxxxxxxx.1"
