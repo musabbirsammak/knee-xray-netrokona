@@ -34,10 +34,10 @@ references:
   - type: data
     title: "Knee radiograph dataset for osteoarthritis detection from a diagnostic centre in Netrokona, Bangladesh"
     authors:
-      - family-names: "Al Tahrim"
-        given-names: "Tajrian"
       - family-names: "Toma"
         given-names: "Tapushe Rabaya"
+      - family-names: "Al Tahrim"
+        given-names: "Tajrian"
       - family-names: "Sammak"
         given-names: "Musabbir Hasan"
       - family-names: "Biplob"
@@ -46,5 +46,6 @@ references:
         given-names: "Imran"
     publisher:
       name: "Mendeley Data"
-    doi: "10.17632/xxxxxxxxxx.1"
+    doi: "10.17632/t7brpb3d6j.1"
     year: 2026
+    url: "https://data.mendeley.com/datasets/t7brpb3d6j/1"

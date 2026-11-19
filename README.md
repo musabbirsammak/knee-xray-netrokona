@@ -4,10 +4,13 @@ Code and results for the Data in Brief article describing a de-duplicated datase
 **1,500 labelled knee X-ray images** (605 normal, 895 osteoarthritis) collected at
 Al-Nur Hospital and Diagnostic Centre, Netrokona, Bangladesh.
 
-- **Dataset:** Mendeley Data, DOI [10.17632/xxxxxxxxxx.1](https://doi.org/10.17632/xxxxxxxxxx.1) (CC BY 4.0)
+- **Dataset:** Mendeley Data, DOI [10.17632/t7brpb3d6j.1](https://doi.org/10.17632/t7brpb3d6j.1) (CC BY 4.0)
 - **Article:** [authors], Data in Brief (2026), DOI [to be added]
+- **Code (this repository):** DOI [10.5281/zenodo.23977577](https://doi.org/10.5281/zenodo.23977577)
+- **Authors:** Tajrian Al Tahrim, Tapushe Rabaya Toma, Musabbir Hasan Sammak, Khalid Been Badruzzaman Biplob, Imran Mahmud (Daffodil International University)
 
-The images are **not** stored in this repository. Download them from Mendeley Data.
+The images are **not** stored in this repository. Download them from
+[Mendeley Data](https://data.mendeley.com/datasets/t7brpb3d6j/1) and unzip `KneeXray-Netrokona-v1.zip` into the repository folder.
 
 ## Repository structure
 
@@ -98,7 +101,17 @@ training configuration: `results/benchmark/run_info.json`.
 ## Citation
 
 If you use the dataset or this code, please cite the article and the dataset (see
-`CITATION.cff`).
+`CITATION.cff`). To cite the dataset:
+
+> T.R. Toma, T. Al Tahrim, M.H. Sammak, K.B.B. Biplob, I. Mahmud, Knee radiograph dataset for osteoarthritis
+> detection from a diagnostic centre in Netrokona, Bangladesh, Mendeley Data, V1, 2026.
+> https://doi.org/10.17632/t7brpb3d6j.1
+
+To cite the code:
+
+> T. Al Tahrim, T.R. Toma, M.H. Sammak, K.B.B. Biplob, I. Mahmud, Knee radiograph dataset for osteoarthritis
+> detection: curation and benchmark code, GitHub, 2026. https://github.com/musabbirsammak/knee-xray-netrokona,
+> https://doi.org/10.5281/zenodo.23977577
 
 ## Licence
 
